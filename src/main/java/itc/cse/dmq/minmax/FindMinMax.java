@@ -1,4 +1,4 @@
-package itc.cse.minmax;
+package itc.cse.dmq.minmax;
 
 public class FindMinMax {
 

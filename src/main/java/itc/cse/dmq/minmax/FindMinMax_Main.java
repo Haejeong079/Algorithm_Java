@@ -1,6 +1,4 @@
-package itc.cse.minmax;
-
-import itc.cse.search.max.FindMax;
+package itc.cse.dmq.minmax;
 
 public class FindMinMax_Main {
     public static void main(String[] args) {
