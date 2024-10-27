@@ -19,8 +19,6 @@ public class QuickSort {
         }
     }
 
-
-
     private int partition(int[] A, int low, int high){
         int i = low + 1;
         int j = high;
@@ -44,6 +42,6 @@ public class QuickSort {
 
         //피벗의 위치 인덱스
         return j;
-
     }
+
 }
