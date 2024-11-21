@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cedc71f4-1848-4f0a-8047-e7ae9ce31363" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/itc/cse/greedy/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/itc/cse/greedy/Knapsack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/itc/cse/greedy/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/itc/cse/greedy/Edge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/itc/cse/greedy/PrimeMST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/itc/cse/greedy/PrimeMST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
     "Application.FunctionalInterfaces.executor": "Run",
     "Application.FuntionalInterfaces.executor": "Run",
     "Application.GraphMain.executor": "Debug",
+    "Application.Knapsack.executor": "Run",
     "Application.Lambda2.executor": "Run",
     "Application.Lambda3.executor": "Run",
     "Application.Main.executor": "Run",
@@ -189,7 +190,8 @@
       <workItem from="1730945374050" duration="4363000" />
       <workItem from="1731041941539" duration="8000" />
       <workItem from="1731048471236" duration="7000" />
-      <workItem from="1731547180878" duration="4445000" />
+      <workItem from="1731547180878" duration="4712000" />
+      <workItem from="1732155177129" duration="3360000" />
     </task>
     <servers />
   </component>
